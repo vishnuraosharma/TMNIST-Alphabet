@@ -1,7 +1,7 @@
 # Recognizing Digits with Convolutional Neural Networks
 
 ## Overview
-This repository contains a Jupyter Notebook that demonstrates the implementation of Convolutional Neural Networks (CNN) for digit recognition. The project utilizes the TMNIST dataset, consisting of 2,990 samples from Google Fonts. The implemented model achieves a remarkable accuracy of 99.4% on the test set, showcasing the effectiveness of CNNs in image classification tasks.
+This repository contains a Jupyter Notebook that demonstrates the implementation of Convolutional Neural Networks (CNN) for digit recognition. The project utilizes the TMNIST dataset, consisting of 2,990 samples from Google Fonts. The implemented model achieves a remarkable accuracy of 99.3% on the test/validation set, showcasing the effectiveness of CNNs in image classification tasks.
 
 ## Topics & Technologies
 - Convolutional Neural Networks (CNN)
