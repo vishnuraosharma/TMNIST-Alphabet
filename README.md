@@ -10,16 +10,6 @@ This repository contains a Jupyter Notebook that demonstrates the implementation
 - Python
 - Jupyter Notebook
 
-## Getting Started
-To run the notebook and explore the digit recognition model, follow these steps:
-
-1. **Clone the Repository:**
-   ```git clone https://github.com/your-username/digit-recognition-cnn.git
-   cd digit-recognition-cnn```
-2. **Open the Jupyter Notebook:**
-   ```jupyter notebook digit_recognition_cnn.ipynb```
-3. Execute each cell in the notebook sequentially to understand the process and observe the results.
-
 ## Notebook Structure
 
 **Abstract**
